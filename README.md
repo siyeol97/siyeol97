@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20Siyeol's%20GitHub%20&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=180)
 
-[![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyeol97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&hide=Jupyter%20Notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=donut&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 - Language Skills
 - 
