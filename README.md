@@ -4,7 +4,7 @@
 
 [![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&theme=github_dark_dimmed&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
-![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyeol97&show_icons=true&theme=github_dark_dimmed&count_private=true&rank_icon=default)
+![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyeol97&show_icons=true&theme=github_dark_dimmed&rank_icon=default)
 
 
 - Language Skills
