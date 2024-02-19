@@ -4,7 +4,7 @@
 
 ![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyeol97&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&hide=Jupyter%20Notebook&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&hide=Jupyter%20Notebook&theme=transparent)
 
 
 - Language Skills
