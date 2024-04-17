@@ -2,16 +2,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Welcome%20to%20Siyeol's%20GitHub%20&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=180)
 
-![Siyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyeol97&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&hide=Jupyter%20Notebook&theme=transparent)
-
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=siyeol97&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=siyeol97&layout=compact&hide_border=true&hide=Jupyter%20Notebook&theme=solarized-light&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=siyeol97&theme=solarized-light&hide_border=true&background=FFFFFF00">
+</p>
 
 - Language Skills
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Framework & Library
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
